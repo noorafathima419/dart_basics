@@ -1,3 +1,4 @@
+import 'dart:convert';
 import'dart:io';
 void main()
 {
@@ -5,5 +6,7 @@ void main()
   print("$a");
  final String b="calicut";
  print("$b");
+ String c="kozhikode";
+ print("c is String");
 
 }
