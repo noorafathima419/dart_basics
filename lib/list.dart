@@ -7,9 +7,9 @@ void main()
   print(name);
   name.addAll({"hinas","ammu"});//add one or more data
   print(name);
-  print(name.length);//length print
-  print(name.reversed);//
-  print(name.indexed);
+  print(name.length);// print of variable length
+  print(name.reversed);// printing revers order of vriable
+  print(name.indexed);//
   print(name.isEmpty);//condition false
   print(name.isNotEmpty);//condition true
   name.insert(6, "ammu");//
